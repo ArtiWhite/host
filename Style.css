@@ -1,0 +1,26 @@
+*{background: black}
+
+.A1 {
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	margin:0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.A0 {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.A2 {
+	color: white;
+	font-size: 30px;
+	margin-left: 450px;
+}
+
+.Border {
+	margin-left: 250px;
+	margin-right: 250px;
+	border: 10px double white;
+}
